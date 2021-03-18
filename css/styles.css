@@ -382,7 +382,6 @@ img {
 	width: 20px;
 	height: 20px;
 }
-
 .icon-masters:hover,
 .icon-masters:focus {
 	background-color: #2196F3;
@@ -412,7 +411,6 @@ img {
 	align-items: center;
 	justify-content: center;
 	margin-right: 30px;
-
 }
 .icon-logo2 {
 	display: flex;
