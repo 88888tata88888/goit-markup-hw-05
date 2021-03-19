@@ -610,6 +610,7 @@ img {
 	height: 580px;
 	background-color: #fff;
 	border-radius: 4px;
+	transition: 250ms;
 }
 .close {
 	fill: #000;
