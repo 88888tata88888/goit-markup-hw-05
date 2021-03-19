@@ -611,6 +611,7 @@ img {
 	background-color: #fff;
 	border-radius: 4px;
 	transition: 250ms;
+	animation-duration: 200ms;
 }
 .close {
 	fill: #000;
@@ -628,7 +629,6 @@ img {
 	border: 1px solid rgba(0, 0, 0, 0.1);
 	border-radius: 50%;
 	cursor: pointer;
-	animation-duration: 200ms;
 }
 .is-hidden {
 	opacity: 0;
