@@ -615,6 +615,10 @@ img {
 	transition: 250ms;
 	animation-duration: 200ms;
 }
+.modal:hover {
+animation-name:animate__zoomIn;
+animation-duration: 250ms;
+}
 .close {
 	fill: #000;
 }
