@@ -46,6 +46,7 @@ img {
 	font-size: 26px;
 	line-height: 1, 19;
 	letter-spacing: 0.03em;
+	animation-duration: 200ms;
 }
 .nav-list {
 	display: flex;
@@ -106,7 +107,6 @@ img {
 	line-height: 1, 17;
 	letter-spacing: 0.02em;
 	font-style: normal;
-	padding-right: 50px;
 }
 .auth-nav-link {
 	color: #757575;
@@ -154,12 +154,13 @@ img {
 	font-weight: 900;
 	font-size: 44px;
 	text-align: center;
+	justify-content: center;
 	line-height: 1.36;
 	color: #ffffff;
 	text-transform: uppercase;
 	padding-top: 200px;
-	padding-left: 200px;
-	padding-right: 252px;
+	padding-left: 310px;
+	padding-right: 310px;
 }
 .modal-btn {
 	font-family: "Roboto", sans-serif;
