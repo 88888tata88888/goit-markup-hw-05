@@ -599,7 +599,7 @@ img {
 	width: 100vw;
 	height: 100vh;
 	background-color: rgba(0, 0, 0, 0.12);
-	transform: 250ms;
+	transition: 250ms;
 }
 .modal {
 	position: absolute;
