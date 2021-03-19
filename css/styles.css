@@ -56,12 +56,14 @@ img {
 .nav-item {
 	margin-right: 50px;
 }
-.current {
-	position:relative;
+.line-line {
 	color:#2196F3 ;
 	margin-top: 32px;
+	position: relative;
+	padding-bottom: 33px;
   }
-.current::after {
+.line-line::after {
+	position: absolute;
 	display: block;
 	bottom:0;
 	left:0;
@@ -70,6 +72,7 @@ img {
 	height: 4px;
 	border-radius: 2px;
      background-color: #2196F3;
+	 bottom: 0;
 }
 .nav-link {
 	font-family: "Roboto", sans-serif;
@@ -585,7 +588,6 @@ img {
 	height: 20px;
 	fill: #fff;
 }
-
 /*===END FOOTER===*/
 
 /*===========PORTFOLIO===============*/
